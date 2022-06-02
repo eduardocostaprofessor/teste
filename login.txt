@@ -1,3 +1,4 @@
 Cria a funcionalidade de login
 Adiciona validação de usuários
 cadastra regras na base de dados
+finalização dos testes
