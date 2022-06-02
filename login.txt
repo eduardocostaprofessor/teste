@@ -1,1 +1,2 @@
 Cria a funcionalidade de login
+Adiciona validação de usuários
